@@ -2,7 +2,7 @@
     Olá, sou Rafaella Godinho 👋
 </h2>
 <p>
-    Atualmente estou na metada da minha graduação em Sistemas de Informação, e, juntamente com o conteúdo absorvido durante as aulas da faculdade, tenho buscado aprofundar os conhecimentos já existentes e adquirir novos, tanto soft como hard skills.  
+    Atualmente estou na metade de minha graduação em Sistemas de Informação, e, juntamente com o conteúdo absorvido durante as aulas da faculdade, tenho buscado aprofundar os conhecimentos já existentes e adquirir novos, tanto soft como hard skills.  
 <p>
 <p>
     Seja bem-vindo ao meu portfólio.

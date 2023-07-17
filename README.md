@@ -2,7 +2,8 @@
     Olá, sou Rafaella Godinho 👋
 </h2>
 <p>
-    Atualmente estou na metade de minha graduação em Sistemas de Informação, e, juntamente com o conteúdo absorvido durante as aulas da faculdade, tenho buscado aprofundar os conhecimentos já existentes e adquirir novos, tanto soft como hard skills.  
+   Sou uma desenvolvedora Full Stack com 3 anos de experiência, capaz de utilizar uma variedade de habilidades em diversas tecnologias.      Tenho conhecimento sólido em JavaScript, TypeScript, ReactJs, NextJs, Redux, NodeJs, GraphQL, Apollo Client, Prisma, Firebase, Jest,      SASS, Styled Components, Tailwind CSS, Material UI e Rapid API, entre outras tecnologias. No momento, estou estudando Java e 
+   Springboot.
 <p>
 <p>
     Seja bem-vindo ao meu portfólio.

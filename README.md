@@ -12,14 +12,14 @@
     Minhas Stacks
 </h2>
 <div>
-    <img src="./github/icons/css3.png" alt="CSS" width="32px">
-    <img src="./github/icons/html5.png" alt="HTML" width="32px">
-    <img src="./github/icons/bootstrap.png" alt="Bootstrap" width="30px">
-    <img src="./github/icons/javascript.png" alt="Javascript" width="30px">
-    <img src="./github/icons/typescript.png" alt="TypeScript" width="34px">
-    <img src="./github/icons/react.png" alt="ReactJs" width="32px">
-    <img src="./github/icons/node.png" alt="NodeJs" width="32px">    
-    <img src="./github/icons/python.png" alt="Python" width="32px">
+   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg">
+    <img align="center" alt="alpinejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original-wordmark.svg">
+    <img align="center" alt="tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
 </div>
 
 <h2>

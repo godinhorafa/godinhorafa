@@ -8,6 +8,10 @@
     Seja bem-vindo ao meu portfólio.
 </p>
 
+<div>
+    <a href="https://rafaellagodinho.vercel.app/" target="_blank">Vercel portfolio <img src="https://img.icons8.com/?size=100&id=742&format=png&color=FFFFFF" width="14" height="14"/></a>
+</div>
+
 <h2>
     Minhas Stacks
 </h2>

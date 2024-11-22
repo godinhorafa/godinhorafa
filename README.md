@@ -34,7 +34,7 @@
 </h2>
 
 <div>
-    <a href="https://www.linkedin.com/in/rafaella-g-07972a131/">
+    <a href="https://www.linkedin.com/in/rafaella-godinho/">
         <img src="./github/icons/linkedin.png" alt="linkedIn" width="34px">
     </a>
     <a href="mailto: rafaellagodinho@outlook.com">

@@ -23,7 +23,7 @@
 <ul>
   <li><strong>Legacy modernization</strong>: auditing technical debt, setting coding standards and progressively extracting services from PHP monoliths without disrupting operations</li>
   <li><strong>Payments</strong>: Stripe subscriptions and recurring billing, PIX and credit card flows, with transactional reliability</li>
-  <li><strong>Back ends that scale</strong>: Laravel, Symfony and NestJS services, event-driven pipelines (SQS/SNS, RabbitMQ), caching and async processing to keep p95 latency low</li>
+  <li><strong>Back ends that scale</strong>: Laravel, Symfony and NestJS services, queues with RabbitMQ, caching and async processing to keep p95 latency low</li>
   <li><strong>Full-stack delivery</strong>: React, Vue and Next.js front ends, dashboards and multi-tenant products, shipped with Docker and CI/CD</li>
   <li><strong>AI in practice</strong>: LLM integrations with Azure OpenAI, and AI coding assistants in my daily workflow</li>
 </ul>
@@ -36,8 +36,8 @@
     <td>Leading the modernization of a legacy PHP monolith (30,000+ daily users); CI/CD improvements that cut deployment lead time by 20%; multi-tenant BI with Superset and React; an AI data-processing platform with FastAPI and Azure OpenAI</td>
   </tr>
   <tr>
-    <td><strong>Westwing</strong><br><sub>Backend Engineer (contract) · 2025–now</sub></td>
-    <td>NestJS/Node.js microservices for high-traffic e-commerce checkout, orders and inventory; event-driven processing with AWS SNS/SQS and S3</td>
+    <td><strong>Verum Digital</strong><br><sub>Full Stack Engineer · 2025</sub></td>
+    <td>Multi-tenant contract management platform in Laravel; an API that standardizes Excel files, cutting manual data processing by ~60%; React workflows, Docker and Bitbucket Pipelines</td>
   </tr>
   <tr>
     <td><strong>Fadami</strong><br><sub>Full Stack Engineer · 2023–2025</sub></td>
@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-<p><sub>Earlier: Verum Digital (Laravel, multi-tenant contracts), freelance Laravel and Stripe work for international clients, the Oi Fibra sales portal at Elumini (Next.js, +60% organic traffic), and UNIFOA.</sub></p>
+<p><sub>Earlier: freelance Laravel and Stripe work for international clients, the Oi Fibra sales portal at Elumini (Next.js, +60% organic traffic), and PHP/C# systems at UNIFOA.</sub></p>
 
 <h2>⭐ Featured project: <a href="https://github.com/godinhorafa/bookly">Bookly</a></h2>
 
@@ -65,6 +65,25 @@
   <li><strong>Transactional outbox</strong> feeding e-mail, signed webhooks and a <strong>NestJS</strong> WebSocket service that updates every open calendar</li>
   <li><strong>Tests at every layer</strong>, including Playwright end to end and a <strong>100% mutation score</strong> on the domain, plus 10 architecture decision records</li>
 </ul>
+
+<h2>🧪 More recent projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/godinhorafa/log-analytics-platform"><img src="./github/log-analytics.png" alt="Log Analytics Platform dashboard"></a>
+      <h3><a href="https://github.com/godinhorafa/log-analytics-platform">Log Analytics Platform</a></h3>
+      <p>Streams log files of any size, detects their format (JSON Lines, Nginx/Apache, syslog) and stores them in PostgreSQL and Elasticsearch. The dashboard flags anomalous error spikes, searches full text and follows a request across services by trace ID.</p>
+      <p><sub>NestJS · TypeScript · React · PostgreSQL · Elasticsearch · Redis · Docker · Jest, Testcontainers, Playwright</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/godinhorafa/desafio-fenix"><img src="./github/desafio-fenix.png" alt="Desafio Fênix"></a>
+      <h3><a href="https://github.com/godinhorafa/desafio-fenix">Desafio Fênix</a></h3>
+      <p>Online multiple-choice exams: teachers build exams and follow a ranking; students take each exam once and get graded automatically. A versioned Laravel REST API with services, repositories and a pure grading function, and 99.5% backend test coverage.</p>
+      <p><sub>PHP 8.4 · Laravel 13 · Vue 3 · PostgreSQL · Redis · Docker · OpenAPI</sub></p>
+    </td>
+  </tr>
+</table>
 
 <h2>🛠️ Tech stack</h2>
 
@@ -114,7 +133,7 @@
   </tr>
 </table>
 
-<p>Also: Symfony, AWS (SQS, SNS, S3), SQL Server, Stripe, PIX, C#, Pest, PHPStan, Playwright, GitLab CI/CD and Bitbucket Pipelines.</p>
+<p>Also: Symfony, AWS, SQL Server, Stripe, PIX, C#, Pest, PHPStan, Playwright, GitLab CI/CD and Bitbucket Pipelines.</p>
 
 <p>🌎 English (C1, fluent) and Portuguese (native). Comfortable working async with international, remote teams.</p>
 
